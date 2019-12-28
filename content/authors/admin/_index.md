@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Gong is a Ph.D. student of computer science at VITA, Texas A&M University, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
+Xinyu Gong (龚新宇) is a Ph.D. student of computer science at VITA, Texas A&M University, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
