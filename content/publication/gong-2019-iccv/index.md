@@ -10,8 +10,8 @@ publication: "*The IEEE International Conference on Computer Vision (ICCV)*"
 links:
   - icon_pack: fas
     icon: download
-    name: eccv2018
-    url: 'http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinyu_Gong_Neural_Stereoscopic_Image_ECCV_2018_paper.pdf'
+    name: iccv2019
+    url: 'http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_AutoGAN_Neural_Architecture_Search_for_Generative_Adversarial_Networks_ICCV_2019_paper.pdf'
   - icon_pack: fab
     icon: github
     name: code
