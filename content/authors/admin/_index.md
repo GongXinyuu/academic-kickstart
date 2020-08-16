@@ -14,11 +14,11 @@ role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Texas A&M University
+- name: The University of Texas at Austin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xinyu Gong is a Ph.D. student of computer science at VITA, Texas A&M University, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
+bio: Xinyu Gong is a Ph.D. student of Electrical and Computer Engineering at [VITA](https://vita-group.github.io), The University of Texas at Austin, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
 
 interests:
 - Computer Vision
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD student in Electrical and Computer Engineering
+    institution: The University of Texas at Austin
+    year: 2020 - 
+  - course: PhD student in Computer Science
     institution: Texas A&M University
-    year: 2018 - present
+    year: 2018 - 2020
   - course: BEng in Computer Science and Engineering
     institution: University of Electronic Science and Technology of China
     year: 2014 - 2018
@@ -68,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Gong (龚新宇) is a Ph.D. student of computer science at VITA, Texas A&M University, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
+Xinyu Gong (龚新宇) is a Ph.D. student Electrical and Computer Engineering at [VITA](https://vita-group.github.io), The University of Texas at Austin, advised by Dr. [Zhangyang Wang](https://www.atlaswang.com). His research interests include computer vision and machine learning.
