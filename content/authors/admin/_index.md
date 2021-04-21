@@ -21,8 +21,9 @@ organizations:
 bio: Xinyu Gong is a Ph.D. student of Electrical and Computer Engineering at [VITA](https://vita-group.github.io), The University of Texas at Austin, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.
 
 interests:
-- Computer Vision
-- AutoML
+- Neural architecture search
+- Normalization
+- Few-shot learning
 
 education:
   courses:
@@ -43,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:xy_gong@tamu.edu"  # For a direct email link,s use "mailto:xy_gong@tamu.edu".
+  link: "mailto:xinyu.gong@utexas.edu"  # For a direct email link,s use "mailto:xy_gong@tamu.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Gong (龚新宇) is a Ph.D. student Electrical and Computer Engineering at [VITA](https://vita-group.github.io), The University of Texas at Austin, advised by Dr. [Zhangyang Wang](https://www.atlaswang.com). 
+Xinyu Gong (新宇 龔) is a Ph.D. student at the Department of Electrical and Computer Engineering, University of Texas at Austin, advised by Prof. [Atlas Wang](https://www.atlaswang.com). Before that, he obtained his Bachelor degree in Computer Science from the University of Electronic Science and Technology of China. He has also internet at Facebook AI, Horizon Robotics and Tencent AI Lab. His research interests are broadly in computer vision and machine learning, with a recent focus on neural architecture search.
