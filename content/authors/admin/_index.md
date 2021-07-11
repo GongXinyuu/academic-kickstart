@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Xinyu Gong (新宇 龔) is a Ph.D. student at the Department of Electrical and Computer Engineering, University of Texas at Austin, advised by Prof. [Atlas Wang](https://www.atlaswang.com). Before that, he obtained his Bachelor degree in Computer Science from the University of Electronic Science and Technology of China. He has also internet at Facebook AI, Horizon Robotics and Tencent AI Lab. His research interests are broadly in computer vision and machine learning, with a recent focus on neural architecture search.
+Xinyu Gong (新宇 龔) is a Ph.D. student at the Department of Electrical and Computer Engineering, University of Texas at Austin, advised by Prof. [Atlas Wang](https://www.atlaswang.com). Before that, he obtained his Bachelor degree in Computer Science from the University of Electronic Science and Technology of China. He has also interned at Facebook AI, Horizon Robotics and Tencent AI Lab. His research interests are broadly in computer vision and machine learning, with a recent focus on neural architecture search.
